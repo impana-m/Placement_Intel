@@ -1,4 +1,4 @@
-# AI-Powered College Placement & Career Development Intelligence System
+# PlacementIntel
 
 Placement Intelligence is an existing Flask + SQLAlchemy + MySQL platform for students, placement officers, faculty and recruiters. The project keeps its original architecture and local-intelligence approach.
 
